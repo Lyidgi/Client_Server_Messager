@@ -1,0 +1,10 @@
+D:\PolinaMPEI\8sem\KC\2_Labs\My\Lab2\Server_cs\Client_cs\bin\Debug\Client_cs.exe.config
+D:\PolinaMPEI\8sem\KC\2_Labs\My\Lab2\Server_cs\Client_cs\obj\Debug\Client_cs.Form1.resources
+D:\PolinaMPEI\8sem\KC\2_Labs\My\Lab2\Server_cs\Client_cs\obj\Debug\Client_cs.Properties.Resources.resources
+D:\PolinaMPEI\8sem\KC\2_Labs\My\Lab2\Server_cs\Client_cs\obj\Debug\Client_cs.csproj.GenerateResource.Cache
+D:\PolinaMPEI\8sem\KC\2_Labs\My\Lab2\Server_cs\Client_cs\bin\Debug\Client_cs.exe
+D:\PolinaMPEI\8sem\KC\2_Labs\My\Lab2\Server_cs\Client_cs\bin\Debug\Client_cs.pdb
+D:\PolinaMPEI\8sem\KC\2_Labs\My\Lab2\Server_cs\Client_cs\obj\Debug\Client_cs.exe
+D:\PolinaMPEI\8sem\KC\2_Labs\My\Lab2\Server_cs\Client_cs\obj\Debug\Client_cs.pdb
+D:\PolinaMPEI\8sem\KC\2_Labs\My\Lab2\Server_cs\Client_cs\obj\Debug\Client_cs.csprojResolveAssemblyReference.cache
+D:\PolinaMPEI\8sem\KC\2_Labs\My\Lab2\Server_cs\Client_cs\obj\Debug\Client_cs.Settings_client.resources
